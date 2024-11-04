@@ -37,3 +37,9 @@ To analyze the sales performance of a retail store. Explore sales data to uncove
   Queries Result here.
   [https://github.com/Iamjof/LITA-Project-1-SalesAnalysis/commit/ae7dad398a7ebcd89ae7665ff1ebc6d4ed42bbab]
 
+### Power BI: 
+- Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and 
+regional breakdowns.
+
+### Shown here.
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/67fd81a7-64f3-4be7-a6b0-51f1cbeb0766">
