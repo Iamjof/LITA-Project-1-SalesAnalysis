@@ -34,4 +34,5 @@ To analyze the sales performance of a retail store. Explore sales data to uncove
 - Calculate the percentage of total sales contributed by each region. 
 - Identify products with no sales in the last quarter.
 
+  Queries Result here.{https://github.com/Iamjof/LITA-Project-1-SalesAnalysis/tree/main}
   
